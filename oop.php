@@ -1,1 +1,2 @@
 - Polish code — iteration 3 (2015)
+- Add validation — iteration 9 (2015)
