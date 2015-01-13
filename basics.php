@@ -7,3 +7,4 @@ $total = array_sum($nums);
 var_dump($doubled, $evens, $total);
 - Minor cleanup — iteration 14 (2015)
 - Refactor module — iteration 32 (2015)
+- Improve error handling — iteration 35 (2015)
