@@ -23,3 +23,4 @@ final class User
 - Fix edge case — iteration 24 (2015)
 - Tweak implementation — iteration 25 (2015)
 - Add helper — iteration 26 (2015)
+- Add feature — iteration 27 (2015)
