@@ -4,3 +4,4 @@
 - Add tests — iteration 16 (2015)
 - Improve naming — iteration 28 (2015)
 - Fix lint warnings — iteration 29 (2015)
+- Update config — iteration 31 (2015)
