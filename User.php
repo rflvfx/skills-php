@@ -18,3 +18,4 @@ final class User
 - Polish code — iteration 5 (2015)
 - Fix typo — iteration 6 (2015)
 - Refactor module — iteration 11 (2015)
+- Add example — iteration 12 (2015)
