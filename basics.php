@@ -9,3 +9,4 @@ var_dump($doubled, $evens, $total);
 - Refactor module — iteration 32 (2015)
 - Improve error handling — iteration 35 (2015)
 - Polish code — iteration 40 (2015)
+- Tweak implementation — iteration 41 (2015)
