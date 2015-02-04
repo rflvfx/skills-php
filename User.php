@@ -27,3 +27,4 @@ final class User
 - Minor cleanup — iteration 30 (2015)
 - Add validation — iteration 33 (2015)
 - Document usage — iteration 36 (2015)
+- Update dependencies — iteration 39 (2015)
