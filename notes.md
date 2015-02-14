@@ -1,1 +1,2 @@
 - Polish code — iteration 7 (2015)
+- Fix typo — iteration 13 (2015)
