@@ -5,3 +5,4 @@
 - Add feature — iteration 38 (2015)
 - Improve error handling — iteration 43 (2015)
 - Optimize performance — iteration 45 (2015)
+- Minor cleanup — iteration 52 (2015)
