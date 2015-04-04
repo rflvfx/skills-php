@@ -19,3 +19,4 @@ final class User
 - Fix typo — iteration 6 (2015)
 - Refactor module — iteration 11 (2015)
 - Add example — iteration 12 (2015)
+- Improve error handling — iteration 20 (2015)
