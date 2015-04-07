@@ -10,3 +10,4 @@
 - Fix edge case — iteration 50 (2015)
 - Minor cleanup — iteration 53 (2015)
 - Extend coverage — iteration 56 (2015)
+- Add helper — iteration 59 (2015)
