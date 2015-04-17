@@ -8,3 +8,4 @@
 - Add tests — iteration 37 (2015)
 - Improve error handling — iteration 47 (2015)
 - Add feature — iteration 51 (2015)
+- Fix typo — iteration 58 (2015)
