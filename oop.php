@@ -5,3 +5,4 @@
 - Optimize performance — iteration 17 (2015)
 - Optimize performance — iteration 19 (2015)
 - Improve naming — iteration 22 (2015)
+- Update docs — iteration 23 (2015)
