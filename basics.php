@@ -10,3 +10,4 @@ var_dump($doubled, $evens, $total);
 - Improve error handling — iteration 35 (2015)
 - Polish code — iteration 40 (2015)
 - Tweak implementation — iteration 41 (2015)
+- Add tests — iteration 48 (2015)
