@@ -6,3 +6,4 @@
 - Optimize performance — iteration 19 (2015)
 - Improve naming — iteration 22 (2015)
 - Update docs — iteration 23 (2015)
+- Add helper — iteration 34 (2015)
