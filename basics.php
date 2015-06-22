@@ -12,3 +12,4 @@ var_dump($doubled, $evens, $total);
 - Tweak implementation — iteration 41 (2015)
 - Add tests — iteration 48 (2015)
 - Fix lint warnings — iteration 49 (2015)
+- Polish code — iteration 55 (2015)
