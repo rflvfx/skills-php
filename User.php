@@ -28,3 +28,4 @@ final class User
 - Add validation — iteration 33 (2015)
 - Document usage — iteration 36 (2015)
 - Update dependencies — iteration 39 (2015)
+- Add validation — iteration 42 (2015)
