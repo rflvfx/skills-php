@@ -4,3 +4,4 @@
 - Update config — iteration 21 (2015)
 - Add feature — iteration 38 (2015)
 - Improve error handling — iteration 43 (2015)
+- Optimize performance — iteration 45 (2015)
