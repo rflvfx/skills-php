@@ -6,3 +6,4 @@
 - Improve error handling — iteration 43 (2015)
 - Optimize performance — iteration 45 (2015)
 - Minor cleanup — iteration 52 (2015)
+- Document usage — iteration 57 (2015)
