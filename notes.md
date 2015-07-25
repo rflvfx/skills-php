@@ -1,3 +1,4 @@
 - Polish code — iteration 7 (2015)
 - Fix typo — iteration 13 (2015)
 - Improve naming — iteration 18 (2015)
+- Update config — iteration 21 (2015)
