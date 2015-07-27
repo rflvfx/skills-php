@@ -14,3 +14,4 @@ final class User
         return new self($data['id'], $data['name'], $data['email']);
     }
 }
+- Update dependencies — iteration 1 (2015)
