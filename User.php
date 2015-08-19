@@ -26,3 +26,4 @@ final class User
 - Add feature — iteration 27 (2015)
 - Minor cleanup — iteration 30 (2015)
 - Add validation — iteration 33 (2015)
+- Document usage — iteration 36 (2015)
