@@ -20,3 +20,4 @@ final class User
 - Refactor module — iteration 11 (2015)
 - Add example — iteration 12 (2015)
 - Improve error handling — iteration 20 (2015)
+- Fix edge case — iteration 24 (2015)
