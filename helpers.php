@@ -1,3 +1,4 @@
 - Fix typo — iteration 2 (2015)
 - Add helper — iteration 4 (2015)
 - Extend coverage — iteration 8 (2015)
+- Add tests — iteration 16 (2015)
