@@ -15,3 +15,4 @@ final class User
     }
 }
 - Update dependencies — iteration 1 (2015)
+- Polish code — iteration 5 (2015)
