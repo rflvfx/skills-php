@@ -21,3 +21,4 @@ final class User
 - Add example — iteration 12 (2015)
 - Improve error handling — iteration 20 (2015)
 - Fix edge case — iteration 24 (2015)
+- Tweak implementation — iteration 25 (2015)
