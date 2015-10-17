@@ -30,3 +30,4 @@ final class User
 - Update dependencies — iteration 39 (2015)
 - Add validation — iteration 42 (2015)
 - Update docs — iteration 44 (2015)
+- Fix lint warnings — iteration 46 (2015)
