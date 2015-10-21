@@ -4,3 +4,4 @@
 - Document usage — iteration 15 (2015)
 - Optimize performance — iteration 17 (2015)
 - Optimize performance — iteration 19 (2015)
+- Improve naming — iteration 22 (2015)
