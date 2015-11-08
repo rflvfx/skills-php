@@ -31,3 +31,4 @@ final class User
 - Add validation — iteration 42 (2015)
 - Update docs — iteration 44 (2015)
 - Fix lint warnings — iteration 46 (2015)
+- Extend coverage — iteration 54 (2015)
