@@ -25,3 +25,4 @@ final class User
 - Add helper — iteration 26 (2015)
 - Add feature — iteration 27 (2015)
 - Minor cleanup — iteration 30 (2015)
+- Add validation — iteration 33 (2015)
