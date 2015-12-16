@@ -8,3 +8,4 @@
 - Update docs — iteration 23 (2015)
 - Add helper — iteration 34 (2015)
 - Fix edge case — iteration 50 (2015)
+- Minor cleanup — iteration 53 (2015)
