@@ -7,3 +7,4 @@
 - Improve naming — iteration 22 (2015)
 - Update docs — iteration 23 (2015)
 - Add helper — iteration 34 (2015)
+- Fix edge case — iteration 50 (2015)
