@@ -3,3 +3,4 @@
 - Improve error handling — iteration 10 (2015)
 - Document usage — iteration 15 (2015)
 - Optimize performance — iteration 17 (2015)
+- Optimize performance — iteration 19 (2015)
