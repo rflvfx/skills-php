@@ -8,3 +8,4 @@
 - Minor cleanup — iteration 52 (2015)
 - Document usage — iteration 57 (2015)
 - Improve naming — iteration 11 (2016)
+- Fix typo — iteration 14 (2016)
