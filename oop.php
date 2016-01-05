@@ -17,3 +17,4 @@
 - Update dependencies — iteration 30 (2016)
 - Improve error handling — iteration 37 (2016)
 - Document usage — iteration 41 (2016)
+- Add helper — iteration 46 (2016)
