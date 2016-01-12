@@ -19,3 +19,4 @@
 - Document usage — iteration 41 (2016)
 - Add helper — iteration 46 (2016)
 - Fix edge case — iteration 50 (2016)
+- Add validation — iteration 52 (2016)
