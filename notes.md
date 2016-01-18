@@ -12,3 +12,4 @@
 - Optimize performance — iteration 15 (2016)
 - Refactor module — iteration 16 (2016)
 - Add helper — iteration 19 (2016)
+- Improve naming — iteration 20 (2016)
