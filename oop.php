@@ -16,3 +16,4 @@
 - Minor cleanup — iteration 9 (2016)
 - Update dependencies — iteration 30 (2016)
 - Improve error handling — iteration 37 (2016)
+- Document usage — iteration 41 (2016)
