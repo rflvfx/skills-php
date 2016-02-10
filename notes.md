@@ -21,3 +21,4 @@
 - Update docs — iteration 36 (2016)
 - Update docs — iteration 40 (2016)
 - Update docs — iteration 42 (2016)
+- Optimize performance — iteration 54 (2016)
