@@ -16,3 +16,4 @@ var_dump($doubled, $evens, $total);
 - Improve error handling — iteration 7 (2016)
 - Fix lint warnings — iteration 18 (2016)
 - Tweak implementation — iteration 26 (2016)
+- Update dependencies — iteration 28 (2016)
