@@ -10,3 +10,4 @@
 - Add feature — iteration 51 (2015)
 - Fix typo — iteration 58 (2015)
 - Minor cleanup — iteration 1 (2016)
+- Fix typo — iteration 2 (2016)
