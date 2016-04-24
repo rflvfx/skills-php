@@ -13,3 +13,4 @@
 - Add helper — iteration 59 (2015)
 - Tweak implementation — iteration 5 (2016)
 - Document usage — iteration 8 (2016)
+- Minor cleanup — iteration 9 (2016)
