@@ -33,3 +33,4 @@ final class User
 - Fix lint warnings — iteration 46 (2015)
 - Extend coverage — iteration 54 (2015)
 - Update config — iteration 10 (2016)
+- Update config — iteration 12 (2016)
