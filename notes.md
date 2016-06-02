@@ -11,3 +11,4 @@
 - Fix typo — iteration 14 (2016)
 - Optimize performance — iteration 15 (2016)
 - Refactor module — iteration 16 (2016)
+- Add helper — iteration 19 (2016)
