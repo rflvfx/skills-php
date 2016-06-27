@@ -12,3 +12,4 @@
 - Minor cleanup — iteration 1 (2016)
 - Fix typo — iteration 2 (2016)
 - Refactor module — iteration 3 (2016)
+- Add tests — iteration 4 (2016)
