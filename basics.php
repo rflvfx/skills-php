@@ -23,3 +23,4 @@ var_dump($doubled, $evens, $total);
 - Improve error handling — iteration 45 (2016)
 - Extend coverage — iteration 47 (2016)
 - Minor cleanup — iteration 48 (2016)
+- Improve naming — iteration 53 (2016)
