@@ -19,3 +19,4 @@
 - Fix lint warnings — iteration 34 (2016)
 - Add example — iteration 35 (2016)
 - Update docs — iteration 36 (2016)
+- Update docs — iteration 40 (2016)
