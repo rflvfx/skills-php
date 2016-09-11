@@ -14,3 +14,4 @@
 - Refactor module — iteration 3 (2016)
 - Add tests — iteration 4 (2016)
 - Improve error handling — iteration 6 (2016)
+- Refactor module — iteration 13 (2016)
