@@ -15,3 +15,4 @@
 - Add tests — iteration 4 (2016)
 - Improve error handling — iteration 6 (2016)
 - Refactor module — iteration 13 (2016)
+- Fix lint warnings — iteration 17 (2016)
