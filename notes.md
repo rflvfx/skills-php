@@ -18,3 +18,4 @@
 - Improve error handling — iteration 27 (2016)
 - Fix lint warnings — iteration 34 (2016)
 - Add example — iteration 35 (2016)
+- Update docs — iteration 36 (2016)
