@@ -14,3 +14,4 @@ var_dump($doubled, $evens, $total);
 - Fix lint warnings — iteration 49 (2015)
 - Polish code — iteration 55 (2015)
 - Improve error handling — iteration 7 (2016)
+- Fix lint warnings — iteration 18 (2016)
