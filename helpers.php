@@ -17,3 +17,4 @@
 - Refactor module — iteration 13 (2016)
 - Fix lint warnings — iteration 17 (2016)
 - Minor cleanup — iteration 23 (2016)
+- Fix edge case — iteration 31 (2016)
