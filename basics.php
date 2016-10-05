@@ -18,3 +18,4 @@ var_dump($doubled, $evens, $total);
 - Tweak implementation — iteration 26 (2016)
 - Update dependencies — iteration 28 (2016)
 - Update config — iteration 29 (2016)
+- Update docs — iteration 32 (2016)
