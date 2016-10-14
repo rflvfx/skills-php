@@ -20,3 +20,4 @@ var_dump($doubled, $evens, $total);
 - Update config — iteration 29 (2016)
 - Update docs — iteration 32 (2016)
 - Fix lint warnings — iteration 39 (2016)
+- Improve error handling — iteration 45 (2016)
