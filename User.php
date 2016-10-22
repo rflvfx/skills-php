@@ -34,3 +34,4 @@ final class User
 - Extend coverage — iteration 54 (2015)
 - Update config — iteration 10 (2016)
 - Update config — iteration 12 (2016)
+- Refactor module — iteration 22 (2016)
