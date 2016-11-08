@@ -36,3 +36,4 @@ final class User
 - Update config — iteration 12 (2016)
 - Refactor module — iteration 22 (2016)
 - Improve error handling — iteration 24 (2016)
+- Improve naming — iteration 33 (2016)
