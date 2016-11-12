@@ -9,3 +9,4 @@
 - Document usage — iteration 57 (2015)
 - Improve naming — iteration 11 (2016)
 - Fix typo — iteration 14 (2016)
+- Optimize performance — iteration 15 (2016)
