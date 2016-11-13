@@ -14,3 +14,4 @@
 - Tweak implementation — iteration 5 (2016)
 - Document usage — iteration 8 (2016)
 - Minor cleanup — iteration 9 (2016)
+- Update dependencies — iteration 30 (2016)
