@@ -15,3 +15,4 @@
 - Improve naming — iteration 20 (2016)
 - Add validation — iteration 21 (2016)
 - Add feature — iteration 25 (2016)
+- Improve error handling — iteration 27 (2016)
