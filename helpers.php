@@ -22,3 +22,4 @@
 - Add example — iteration 43 (2016)
 - Add example — iteration 44 (2016)
 - Extend coverage — iteration 49 (2016)
+- Add tests — iteration 60 (2016)
