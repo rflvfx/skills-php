@@ -32,3 +32,4 @@ var_dump($doubled, $evens, $total);
 - Update dependencies — iteration 19 (2017)
 - Add helper — iteration 20 (2017)
 - Add example — iteration 23 (2017)
+- Improve naming — iteration 24 (2017)
