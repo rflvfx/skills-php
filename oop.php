@@ -25,3 +25,4 @@
 - Fix edge case — iteration 5 (2017)
 - Optimize performance — iteration 6 (2017)
 - Add tests — iteration 10 (2017)
+- Add tests — iteration 12 (2017)
