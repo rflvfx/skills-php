@@ -25,3 +25,4 @@
 - Add tests — iteration 60 (2016)
 - Refactor module — iteration 1 (2017)
 - Fix lint warnings — iteration 8 (2017)
+- Update docs — iteration 14 (2017)
