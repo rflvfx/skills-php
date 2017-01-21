@@ -28,3 +28,4 @@
 - Fix edge case — iteration 25 (2017)
 - Add tests — iteration 32 (2017)
 - Optimize performance — iteration 35 (2017)
+- Extend coverage — iteration 41 (2017)
