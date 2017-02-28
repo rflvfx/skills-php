@@ -26,3 +26,4 @@
 - Refactor module — iteration 1 (2017)
 - Fix lint warnings — iteration 8 (2017)
 - Update docs — iteration 14 (2017)
+- Add helper — iteration 16 (2017)
