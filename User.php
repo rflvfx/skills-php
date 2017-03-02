@@ -45,3 +45,4 @@ final class User
 - Add helper — iteration 26 (2017)
 - Add tests — iteration 27 (2017)
 - Fix typo — iteration 30 (2017)
+- Minor cleanup — iteration 34 (2017)
