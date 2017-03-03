@@ -42,3 +42,4 @@ final class User
 - Optimize performance — iteration 3 (2017)
 - Tweak implementation — iteration 4 (2017)
 - Add helper — iteration 11 (2017)
+- Add helper — iteration 26 (2017)
