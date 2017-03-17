@@ -34,3 +34,4 @@
 - Refactor module — iteration 40 (2017)
 - Update docs — iteration 49 (2017)
 - Update docs — iteration 50 (2017)
+- Document usage — iteration 57 (2017)
