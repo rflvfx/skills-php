@@ -23,3 +23,4 @@
 - Update docs — iteration 42 (2016)
 - Optimize performance — iteration 54 (2016)
 - Update config — iteration 56 (2016)
+- Minor cleanup — iteration 15 (2017)
