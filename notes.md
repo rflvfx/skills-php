@@ -24,3 +24,4 @@
 - Optimize performance — iteration 54 (2016)
 - Update config — iteration 56 (2016)
 - Minor cleanup — iteration 15 (2017)
+- Add validation — iteration 21 (2017)
