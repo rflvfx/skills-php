@@ -28,3 +28,4 @@
 - Add tests — iteration 12 (2017)
 - Update docs — iteration 17 (2017)
 - Refactor module — iteration 22 (2017)
+- Update dependencies — iteration 29 (2017)
