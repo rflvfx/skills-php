@@ -26,3 +26,4 @@ var_dump($doubled, $evens, $total);
 - Improve naming — iteration 53 (2016)
 - Add example — iteration 59 (2016)
 - Extend coverage — iteration 2 (2017)
+- Minor cleanup — iteration 7 (2017)
