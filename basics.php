@@ -37,3 +37,4 @@ var_dump($doubled, $evens, $total);
 - Improve naming — iteration 38 (2017)
 - Extend coverage — iteration 39 (2017)
 - Polish code — iteration 46 (2017)
+- Extend coverage — iteration 48 (2017)
