@@ -34,3 +34,4 @@ var_dump($doubled, $evens, $total);
 - Add example — iteration 23 (2017)
 - Improve naming — iteration 24 (2017)
 - Add feature — iteration 31 (2017)
+- Improve naming — iteration 38 (2017)
