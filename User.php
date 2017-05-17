@@ -43,3 +43,4 @@ final class User
 - Tweak implementation — iteration 4 (2017)
 - Add helper — iteration 11 (2017)
 - Add helper — iteration 26 (2017)
+- Add tests — iteration 27 (2017)
