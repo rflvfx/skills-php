@@ -27,3 +27,4 @@ var_dump($doubled, $evens, $total);
 - Add example — iteration 59 (2016)
 - Extend coverage — iteration 2 (2017)
 - Minor cleanup — iteration 7 (2017)
+- Add helper — iteration 9 (2017)
