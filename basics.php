@@ -29,3 +29,4 @@ var_dump($doubled, $evens, $total);
 - Minor cleanup — iteration 7 (2017)
 - Add helper — iteration 9 (2017)
 - Refactor module — iteration 13 (2017)
+- Update dependencies — iteration 19 (2017)
