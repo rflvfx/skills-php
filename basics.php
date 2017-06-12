@@ -38,3 +38,4 @@ var_dump($doubled, $evens, $total);
 - Extend coverage — iteration 39 (2017)
 - Polish code — iteration 46 (2017)
 - Extend coverage — iteration 48 (2017)
+- Update config — iteration 51 (2017)
