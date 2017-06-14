@@ -22,3 +22,4 @@
 - Add validation — iteration 52 (2016)
 - Optimize performance — iteration 55 (2016)
 - Update dependencies — iteration 57 (2016)
+- Fix edge case — iteration 5 (2017)
