@@ -48,3 +48,4 @@ final class User
 - Minor cleanup — iteration 34 (2017)
 - Update dependencies — iteration 43 (2017)
 - Improve error handling — iteration 45 (2017)
+- Improve naming — iteration 52 (2017)
