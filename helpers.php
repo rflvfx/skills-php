@@ -30,3 +30,4 @@
 - Polish code — iteration 18 (2017)
 - Update config — iteration 28 (2017)
 - Add feature — iteration 37 (2017)
+- Add validation — iteration 42 (2017)
