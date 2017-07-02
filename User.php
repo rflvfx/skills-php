@@ -39,3 +39,4 @@ final class User
 - Improve naming — iteration 33 (2016)
 - Update dependencies — iteration 51 (2016)
 - Refactor module — iteration 58 (2016)
+- Optimize performance — iteration 3 (2017)
