@@ -40,3 +40,4 @@ final class User
 - Update dependencies — iteration 51 (2016)
 - Refactor module — iteration 58 (2016)
 - Optimize performance — iteration 3 (2017)
+- Tweak implementation — iteration 4 (2017)
