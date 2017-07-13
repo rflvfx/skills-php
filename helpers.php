@@ -33,3 +33,4 @@
 - Add validation — iteration 42 (2017)
 - Update dependencies — iteration 44 (2017)
 - Optimize performance — iteration 53 (2017)
+- Polish code — iteration 56 (2017)
