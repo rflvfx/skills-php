@@ -27,3 +27,4 @@
 - Fix lint warnings — iteration 8 (2017)
 - Update docs — iteration 14 (2017)
 - Add helper — iteration 16 (2017)
+- Polish code — iteration 18 (2017)
