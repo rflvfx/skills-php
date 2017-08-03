@@ -32,3 +32,4 @@
 - Add feature — iteration 37 (2017)
 - Add validation — iteration 42 (2017)
 - Update dependencies — iteration 44 (2017)
+- Optimize performance — iteration 53 (2017)
