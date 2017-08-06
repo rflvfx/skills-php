@@ -46,3 +46,4 @@ final class User
 - Add tests — iteration 27 (2017)
 - Fix typo — iteration 30 (2017)
 - Minor cleanup — iteration 34 (2017)
+- Update dependencies — iteration 43 (2017)
