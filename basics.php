@@ -40,3 +40,4 @@ var_dump($doubled, $evens, $total);
 - Extend coverage — iteration 48 (2017)
 - Update config — iteration 51 (2017)
 - Refactor module — iteration 55 (2017)
+- Tweak implementation — iteration 58 (2017)
