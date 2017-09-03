@@ -35,3 +35,4 @@ var_dump($doubled, $evens, $total);
 - Improve naming — iteration 24 (2017)
 - Add feature — iteration 31 (2017)
 - Improve naming — iteration 38 (2017)
+- Extend coverage — iteration 39 (2017)
