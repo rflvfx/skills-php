@@ -31,3 +31,4 @@ var_dump($doubled, $evens, $total);
 - Refactor module — iteration 13 (2017)
 - Update dependencies — iteration 19 (2017)
 - Add helper — iteration 20 (2017)
+- Add example — iteration 23 (2017)
