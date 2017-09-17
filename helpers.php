@@ -24,3 +24,4 @@
 - Extend coverage — iteration 49 (2016)
 - Add tests — iteration 60 (2016)
 - Refactor module — iteration 1 (2017)
+- Fix lint warnings — iteration 8 (2017)
