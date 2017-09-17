@@ -26,3 +26,4 @@
 - Minor cleanup — iteration 15 (2017)
 - Add validation — iteration 21 (2017)
 - Fix edge case — iteration 25 (2017)
+- Add tests — iteration 32 (2017)
