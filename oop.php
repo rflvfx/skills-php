@@ -30,3 +30,4 @@
 - Refactor module — iteration 22 (2017)
 - Update dependencies — iteration 29 (2017)
 - Improve naming — iteration 33 (2017)
+- Extend coverage — iteration 36 (2017)
