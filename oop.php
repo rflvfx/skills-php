@@ -33,3 +33,4 @@
 - Extend coverage — iteration 36 (2017)
 - Refactor module — iteration 40 (2017)
 - Update docs — iteration 49 (2017)
+- Update docs — iteration 50 (2017)
