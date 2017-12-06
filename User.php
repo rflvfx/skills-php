@@ -47,3 +47,4 @@ final class User
 - Fix typo — iteration 30 (2017)
 - Minor cleanup — iteration 34 (2017)
 - Update dependencies — iteration 43 (2017)
+- Improve error handling — iteration 45 (2017)
