@@ -35,3 +35,4 @@
 - Optimize performance — iteration 53 (2017)
 - Polish code — iteration 56 (2017)
 - Extend coverage — iteration 59 (2017)
+- Add validation — iteration 60 (2017)
