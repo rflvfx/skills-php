@@ -25,3 +25,4 @@
 - Update config — iteration 56 (2016)
 - Minor cleanup — iteration 15 (2017)
 - Add validation — iteration 21 (2017)
+- Fix edge case — iteration 25 (2017)
