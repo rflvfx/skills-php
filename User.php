@@ -54,3 +54,4 @@ final class User
 - Document usage — iteration 5 (2018)
 - Add validation — iteration 6 (2018)
 - Optimize performance — iteration 15 (2018)
+- Refactor module — iteration 16 (2018)
