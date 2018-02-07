@@ -51,3 +51,4 @@ final class User
 - Improve naming — iteration 52 (2017)
 - Add feature — iteration 54 (2017)
 - Add feature — iteration 4 (2018)
+- Document usage — iteration 5 (2018)
