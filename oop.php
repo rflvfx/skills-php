@@ -51,3 +51,4 @@
 - Fix lint warnings — iteration 54 (2018)
 - Improve naming — iteration 57 (2018)
 - Add example — iteration 59 (2018)
+- Add example — iteration 60 (2018)
