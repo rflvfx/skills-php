@@ -50,3 +50,4 @@
 - Extend coverage — iteration 51 (2018)
 - Fix lint warnings — iteration 54 (2018)
 - Improve naming — iteration 57 (2018)
+- Add example — iteration 59 (2018)
