@@ -50,3 +50,4 @@ final class User
 - Improve error handling — iteration 45 (2017)
 - Improve naming — iteration 52 (2017)
 - Add feature — iteration 54 (2017)
+- Add feature — iteration 4 (2018)
