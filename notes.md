@@ -30,3 +30,4 @@
 - Optimize performance — iteration 35 (2017)
 - Extend coverage — iteration 41 (2017)
 - Document usage — iteration 47 (2017)
+- Add validation — iteration 3 (2018)
