@@ -44,3 +44,4 @@
 - Update docs — iteration 37 (2018)
 - Minor cleanup — iteration 40 (2018)
 - Update dependencies — iteration 41 (2018)
+- Update config — iteration 45 (2018)
