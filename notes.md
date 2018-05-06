@@ -31,3 +31,4 @@
 - Extend coverage — iteration 41 (2017)
 - Document usage — iteration 47 (2017)
 - Add validation — iteration 3 (2018)
+- Fix edge case — iteration 12 (2018)
