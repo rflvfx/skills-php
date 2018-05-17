@@ -58,3 +58,4 @@ final class User
 - Update dependencies — iteration 18 (2018)
 - Add example — iteration 19 (2018)
 - Update config — iteration 20 (2018)
+- Fix lint warnings — iteration 23 (2018)
