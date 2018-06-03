@@ -38,3 +38,4 @@
 - Add validation — iteration 8 (2018)
 - Improve naming — iteration 10 (2018)
 - Update docs — iteration 11 (2018)
+- Refactor module — iteration 26 (2018)
