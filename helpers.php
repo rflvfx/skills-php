@@ -39,3 +39,4 @@
 - Update dependencies — iteration 1 (2018)
 - Add tests — iteration 7 (2018)
 - Minor cleanup — iteration 9 (2018)
+- Tweak implementation — iteration 13 (2018)
