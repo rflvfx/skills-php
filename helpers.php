@@ -44,3 +44,4 @@
 - Update docs — iteration 22 (2018)
 - Fix edge case — iteration 25 (2018)
 - Extend coverage — iteration 28 (2018)
+- Improve naming — iteration 30 (2018)
