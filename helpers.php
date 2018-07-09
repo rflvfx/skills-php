@@ -49,3 +49,4 @@
 - Polish code — iteration 46 (2018)
 - Add feature — iteration 48 (2018)
 - Document usage — iteration 55 (2018)
+- Tweak implementation — iteration 56 (2018)
