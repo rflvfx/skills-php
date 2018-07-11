@@ -39,3 +39,4 @@
 - Improve naming — iteration 10 (2018)
 - Update docs — iteration 11 (2018)
 - Refactor module — iteration 26 (2018)
+- Add example — iteration 31 (2018)
