@@ -38,3 +38,4 @@
 - Fix edge case — iteration 38 (2018)
 - Add example — iteration 39 (2018)
 - Document usage — iteration 42 (2018)
+- Polish code — iteration 50 (2018)
