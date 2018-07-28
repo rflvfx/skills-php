@@ -48,3 +48,4 @@
 - Document usage — iteration 34 (2018)
 - Polish code — iteration 46 (2018)
 - Add feature — iteration 48 (2018)
+- Document usage — iteration 55 (2018)
