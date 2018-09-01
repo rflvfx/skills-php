@@ -41,3 +41,4 @@
 - Refactor module — iteration 26 (2018)
 - Add example — iteration 31 (2018)
 - Extend coverage — iteration 35 (2018)
+- Update docs — iteration 37 (2018)
