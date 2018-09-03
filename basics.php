@@ -47,3 +47,4 @@ var_dump($doubled, $evens, $total);
 - Add validation — iteration 27 (2018)
 - Refactor module — iteration 43 (2018)
 - Update docs — iteration 44 (2018)
+- Fix lint warnings — iteration 58 (2018)
