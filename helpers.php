@@ -45,3 +45,4 @@
 - Fix edge case — iteration 25 (2018)
 - Extend coverage — iteration 28 (2018)
 - Improve naming — iteration 30 (2018)
+- Document usage — iteration 34 (2018)
