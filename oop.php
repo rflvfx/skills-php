@@ -47,3 +47,4 @@
 - Update config — iteration 45 (2018)
 - Fix edge case — iteration 47 (2018)
 - Update config — iteration 49 (2018)
+- Extend coverage — iteration 51 (2018)
