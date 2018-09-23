@@ -32,3 +32,4 @@
 - Document usage — iteration 47 (2017)
 - Add validation — iteration 3 (2018)
 - Fix edge case — iteration 12 (2018)
+- Add helper — iteration 21 (2018)
