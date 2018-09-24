@@ -45,3 +45,4 @@ var_dump($doubled, $evens, $total);
 - Add tests — iteration 17 (2018)
 - Improve error handling — iteration 24 (2018)
 - Add validation — iteration 27 (2018)
+- Refactor module — iteration 43 (2018)
