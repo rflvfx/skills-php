@@ -61,3 +61,4 @@ final class User
 - Fix lint warnings — iteration 23 (2018)
 - Extend coverage — iteration 29 (2018)
 - Optimize performance — iteration 32 (2018)
+- Add feature — iteration 53 (2018)
