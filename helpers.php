@@ -42,3 +42,4 @@
 - Tweak implementation — iteration 13 (2018)
 - Add tests — iteration 14 (2018)
 - Update docs — iteration 22 (2018)
+- Fix edge case — iteration 25 (2018)
