@@ -59,3 +59,4 @@ final class User
 - Add example — iteration 19 (2018)
 - Update config — iteration 20 (2018)
 - Fix lint warnings — iteration 23 (2018)
+- Extend coverage — iteration 29 (2018)
