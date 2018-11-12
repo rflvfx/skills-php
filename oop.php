@@ -36,3 +36,4 @@
 - Update docs — iteration 50 (2017)
 - Document usage — iteration 57 (2017)
 - Add validation — iteration 8 (2018)
+- Improve naming — iteration 10 (2018)
