@@ -34,3 +34,4 @@
 - Fix edge case — iteration 12 (2018)
 - Add helper — iteration 21 (2018)
 - Update config — iteration 33 (2018)
+- Minor cleanup — iteration 36 (2018)
