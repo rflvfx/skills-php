@@ -39,3 +39,4 @@
 - Add example — iteration 39 (2018)
 - Document usage — iteration 42 (2018)
 - Polish code — iteration 50 (2018)
+- Update docs — iteration 52 (2018)
