@@ -44,3 +44,4 @@ var_dump($doubled, $evens, $total);
 - Add validation — iteration 2 (2018)
 - Add tests — iteration 17 (2018)
 - Improve error handling — iteration 24 (2018)
+- Add validation — iteration 27 (2018)
