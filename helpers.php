@@ -37,3 +37,4 @@
 - Extend coverage — iteration 59 (2017)
 - Add validation — iteration 60 (2017)
 - Update dependencies — iteration 1 (2018)
+- Add tests — iteration 7 (2018)
