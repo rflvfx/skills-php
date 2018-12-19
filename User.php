@@ -55,3 +55,4 @@ final class User
 - Add validation — iteration 6 (2018)
 - Optimize performance — iteration 15 (2018)
 - Refactor module — iteration 16 (2018)
+- Update dependencies — iteration 18 (2018)
