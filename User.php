@@ -57,3 +57,4 @@ final class User
 - Refactor module — iteration 16 (2018)
 - Update dependencies — iteration 18 (2018)
 - Add example — iteration 19 (2018)
+- Update config — iteration 20 (2018)
