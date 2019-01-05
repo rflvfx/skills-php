@@ -48,3 +48,4 @@
 - Polish code — iteration 45 (2019)
 - Minor cleanup — iteration 48 (2019)
 - Add example — iteration 51 (2019)
+- Improve error handling — iteration 55 (2019)
