@@ -53,3 +53,4 @@ var_dump($doubled, $evens, $total);
 - Extend coverage — iteration 13 (2019)
 - Improve naming — iteration 18 (2019)
 - Fix typo — iteration 22 (2019)
+- Fix edge case — iteration 25 (2019)
