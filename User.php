@@ -73,3 +73,4 @@ final class User
 - Add feature — iteration 15 (2019)
 - Improve error handling — iteration 19 (2019)
 - Update docs — iteration 23 (2019)
+- Update docs — iteration 29 (2019)
