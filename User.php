@@ -77,3 +77,4 @@ final class User
 - Improve naming — iteration 33 (2019)
 - Tweak implementation — iteration 37 (2019)
 - Refactor module — iteration 46 (2019)
+- Document usage — iteration 47 (2019)
