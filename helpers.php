@@ -50,3 +50,4 @@
 - Add feature — iteration 48 (2018)
 - Document usage — iteration 55 (2018)
 - Tweak implementation — iteration 56 (2018)
+- Polish code — iteration 2 (2019)
