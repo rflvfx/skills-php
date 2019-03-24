@@ -66,3 +66,4 @@ final class User
 - Fix typo — iteration 4 (2019)
 - Tweak implementation — iteration 5 (2019)
 - Document usage — iteration 6 (2019)
+- Update config — iteration 7 (2019)
