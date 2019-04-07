@@ -52,3 +52,4 @@
 - Tweak implementation — iteration 56 (2018)
 - Polish code — iteration 2 (2019)
 - Update docs — iteration 12 (2019)
+- Add validation — iteration 20 (2019)
