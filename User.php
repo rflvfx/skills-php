@@ -64,3 +64,4 @@ final class User
 - Add feature — iteration 53 (2018)
 - Extend coverage — iteration 1 (2019)
 - Fix typo — iteration 4 (2019)
+- Tweak implementation — iteration 5 (2019)
