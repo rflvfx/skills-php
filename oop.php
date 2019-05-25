@@ -53,3 +53,4 @@
 - Add example — iteration 59 (2018)
 - Add example — iteration 60 (2018)
 - Improve naming — iteration 10 (2019)
+- Fix typo — iteration 16 (2019)
