@@ -50,3 +50,4 @@ var_dump($doubled, $evens, $total);
 - Fix lint warnings — iteration 58 (2018)
 - Add feature — iteration 3 (2019)
 - Add example — iteration 11 (2019)
+- Extend coverage — iteration 13 (2019)
