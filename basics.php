@@ -55,3 +55,4 @@ var_dump($doubled, $evens, $total);
 - Fix typo — iteration 22 (2019)
 - Fix edge case — iteration 25 (2019)
 - Add validation — iteration 30 (2019)
+- Add example — iteration 31 (2019)
