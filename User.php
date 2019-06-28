@@ -65,3 +65,4 @@ final class User
 - Extend coverage — iteration 1 (2019)
 - Fix typo — iteration 4 (2019)
 - Tweak implementation — iteration 5 (2019)
+- Document usage — iteration 6 (2019)
