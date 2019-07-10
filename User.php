@@ -70,3 +70,4 @@ final class User
 - Fix typo — iteration 8 (2019)
 - Polish code — iteration 9 (2019)
 - Polish code — iteration 14 (2019)
+- Add feature — iteration 15 (2019)
