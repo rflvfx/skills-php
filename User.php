@@ -78,3 +78,4 @@ final class User
 - Tweak implementation — iteration 37 (2019)
 - Refactor module — iteration 46 (2019)
 - Document usage — iteration 47 (2019)
+- Fix typo — iteration 49 (2019)
