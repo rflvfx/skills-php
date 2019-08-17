@@ -71,3 +71,4 @@ final class User
 - Polish code — iteration 9 (2019)
 - Polish code — iteration 14 (2019)
 - Add feature — iteration 15 (2019)
+- Improve error handling — iteration 19 (2019)
