@@ -60,3 +60,4 @@ var_dump($doubled, $evens, $total);
 - Fix lint warnings — iteration 36 (2019)
 - Add validation — iteration 41 (2019)
 - Polish code — iteration 44 (2019)
+- Update docs — iteration 52 (2019)
