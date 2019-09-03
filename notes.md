@@ -44,3 +44,4 @@
 - Document usage — iteration 34 (2019)
 - Improve naming — iteration 38 (2019)
 - Update config — iteration 39 (2019)
+- Add validation — iteration 40 (2019)
