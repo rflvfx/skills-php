@@ -52,3 +52,4 @@ var_dump($doubled, $evens, $total);
 - Add example — iteration 11 (2019)
 - Extend coverage — iteration 13 (2019)
 - Improve naming — iteration 18 (2019)
+- Fix typo — iteration 22 (2019)
