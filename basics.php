@@ -58,3 +58,4 @@ var_dump($doubled, $evens, $total);
 - Add example — iteration 31 (2019)
 - Optimize performance — iteration 35 (2019)
 - Fix lint warnings — iteration 36 (2019)
+- Add validation — iteration 41 (2019)
