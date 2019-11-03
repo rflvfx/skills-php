@@ -80,3 +80,4 @@ final class User
 - Document usage — iteration 47 (2019)
 - Fix typo — iteration 49 (2019)
 - Update docs — iteration 57 (2019)
+- Update config — iteration 60 (2019)
