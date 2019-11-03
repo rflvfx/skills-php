@@ -74,3 +74,4 @@ final class User
 - Improve error handling — iteration 19 (2019)
 - Update docs — iteration 23 (2019)
 - Update docs — iteration 29 (2019)
+- Improve naming — iteration 33 (2019)
