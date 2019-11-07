@@ -69,3 +69,4 @@ final class User
 - Update config — iteration 7 (2019)
 - Fix typo — iteration 8 (2019)
 - Polish code — iteration 9 (2019)
+- Polish code — iteration 14 (2019)
