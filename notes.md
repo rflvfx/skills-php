@@ -43,3 +43,4 @@
 - Update config — iteration 32 (2019)
 - Document usage — iteration 34 (2019)
 - Improve naming — iteration 38 (2019)
+- Update config — iteration 39 (2019)
