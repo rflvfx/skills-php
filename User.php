@@ -79,3 +79,4 @@ final class User
 - Refactor module — iteration 46 (2019)
 - Document usage — iteration 47 (2019)
 - Fix typo — iteration 49 (2019)
+- Update docs — iteration 57 (2019)
