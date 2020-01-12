@@ -71,3 +71,4 @@
 - Document usage — iteration 38 (2020)
 - Improve naming — iteration 39 (2020)
 - Improve error handling — iteration 42 (2020)
+- Improve error handling — iteration 45 (2020)
