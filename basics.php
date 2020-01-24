@@ -65,3 +65,4 @@ var_dump($doubled, $evens, $total);
 - Minor cleanup — iteration 28 (2020)
 - Polish code — iteration 29 (2020)
 - Document usage — iteration 43 (2020)
+- Update docs — iteration 44 (2020)
