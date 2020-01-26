@@ -74,3 +74,4 @@
 - Improve error handling — iteration 45 (2020)
 - Fix lint warnings — iteration 50 (2020)
 - Add tests — iteration 51 (2020)
+- Update docs — iteration 52 (2020)
