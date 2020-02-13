@@ -82,3 +82,4 @@ final class User
 - Update docs — iteration 57 (2019)
 - Update config — iteration 60 (2019)
 - Add tests — iteration 2 (2020)
+- Add tests — iteration 6 (2020)
