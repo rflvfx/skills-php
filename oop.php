@@ -67,3 +67,4 @@
 - Document usage — iteration 24 (2020)
 - Add example — iteration 25 (2020)
 - Document usage — iteration 34 (2020)
+- Extend coverage — iteration 35 (2020)
