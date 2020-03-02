@@ -66,3 +66,4 @@ var_dump($doubled, $evens, $total);
 - Polish code — iteration 29 (2020)
 - Document usage — iteration 43 (2020)
 - Update docs — iteration 44 (2020)
+- Polish code — iteration 46 (2020)
