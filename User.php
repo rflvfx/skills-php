@@ -81,3 +81,4 @@ final class User
 - Fix typo — iteration 49 (2019)
 - Update docs — iteration 57 (2019)
 - Update config — iteration 60 (2019)
+- Add tests — iteration 2 (2020)
