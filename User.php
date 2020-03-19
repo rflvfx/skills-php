@@ -85,3 +85,4 @@ final class User
 - Add tests — iteration 6 (2020)
 - Add validation — iteration 7 (2020)
 - Improve error handling — iteration 8 (2020)
+- Document usage — iteration 13 (2020)
