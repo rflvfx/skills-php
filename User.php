@@ -89,3 +89,4 @@ final class User
 - Add tests — iteration 15 (2020)
 - Improve naming — iteration 16 (2020)
 - Add feature — iteration 30 (2020)
+- Improve naming — iteration 32 (2020)
