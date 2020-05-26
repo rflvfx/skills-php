@@ -63,3 +63,4 @@
 - Optimize performance — iteration 5 (2020)
 - Add helper — iteration 12 (2020)
 - Add example — iteration 14 (2020)
+- Refactor module — iteration 17 (2020)
