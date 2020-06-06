@@ -58,3 +58,4 @@
 - Extend coverage — iteration 22 (2020)
 - Improve error handling — iteration 27 (2020)
 - Optimize performance — iteration 31 (2020)
+- Update config — iteration 33 (2020)
