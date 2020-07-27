@@ -61,3 +61,4 @@ var_dump($doubled, $evens, $total);
 - Add validation — iteration 41 (2019)
 - Polish code — iteration 44 (2019)
 - Update docs — iteration 52 (2019)
+- Update config — iteration 26 (2020)
