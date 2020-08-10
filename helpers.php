@@ -60,3 +60,4 @@
 - Add feature — iteration 50 (2019)
 - Fix edge case — iteration 53 (2019)
 - Fix edge case — iteration 58 (2019)
+- Optimize performance — iteration 5 (2020)
