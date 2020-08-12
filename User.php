@@ -87,3 +87,4 @@ final class User
 - Improve error handling — iteration 8 (2020)
 - Document usage — iteration 13 (2020)
 - Add tests — iteration 15 (2020)
+- Improve naming — iteration 16 (2020)
