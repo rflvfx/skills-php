@@ -69,3 +69,4 @@
 - Document usage — iteration 34 (2020)
 - Extend coverage — iteration 35 (2020)
 - Document usage — iteration 38 (2020)
+- Improve naming — iteration 39 (2020)
