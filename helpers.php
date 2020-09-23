@@ -64,3 +64,4 @@
 - Add helper — iteration 12 (2020)
 - Add example — iteration 14 (2020)
 - Refactor module — iteration 17 (2020)
+- Update dependencies — iteration 18 (2020)
