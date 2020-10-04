@@ -64,3 +64,4 @@
 - Fix lint warnings — iteration 9 (2020)
 - Fix edge case — iteration 11 (2020)
 - Tweak implementation — iteration 23 (2020)
+- Document usage — iteration 24 (2020)
