@@ -95,3 +95,4 @@ final class User
 - Update config — iteration 49 (2020)
 - Improve error handling — iteration 53 (2020)
 - Polish code — iteration 55 (2020)
+- Add tests — iteration 58 (2020)
