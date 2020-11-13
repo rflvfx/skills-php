@@ -93,3 +93,4 @@ final class User
 - Optimize performance — iteration 36 (2020)
 - Update docs — iteration 37 (2020)
 - Update config — iteration 49 (2020)
+- Improve error handling — iteration 53 (2020)
