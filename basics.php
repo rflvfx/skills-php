@@ -64,3 +64,4 @@ var_dump($doubled, $evens, $total);
 - Update config — iteration 26 (2020)
 - Minor cleanup — iteration 28 (2020)
 - Polish code — iteration 29 (2020)
+- Document usage — iteration 43 (2020)
