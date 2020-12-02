@@ -61,3 +61,4 @@
 - Extend coverage — iteration 54 (2019)
 - Optimize performance — iteration 59 (2019)
 - Minor cleanup — iteration 1 (2020)
+- Fix lint warnings — iteration 9 (2020)
