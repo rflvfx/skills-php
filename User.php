@@ -88,3 +88,4 @@ final class User
 - Document usage — iteration 13 (2020)
 - Add tests — iteration 15 (2020)
 - Improve naming — iteration 16 (2020)
+- Add feature — iteration 30 (2020)
