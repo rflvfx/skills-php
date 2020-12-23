@@ -57,3 +57,4 @@
 - Add feature — iteration 20 (2020)
 - Extend coverage — iteration 22 (2020)
 - Improve error handling — iteration 27 (2020)
+- Optimize performance — iteration 31 (2020)
