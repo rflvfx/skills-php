@@ -72,3 +72,4 @@
 - Improve naming — iteration 39 (2020)
 - Improve error handling — iteration 42 (2020)
 - Improve error handling — iteration 45 (2020)
+- Fix lint warnings — iteration 50 (2020)
