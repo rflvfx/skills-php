@@ -91,3 +91,4 @@ final class User
 - Add feature — iteration 30 (2020)
 - Improve naming — iteration 32 (2020)
 - Optimize performance — iteration 36 (2020)
+- Update docs — iteration 37 (2020)
