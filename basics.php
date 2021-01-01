@@ -79,3 +79,4 @@ var_dump($doubled, $evens, $total);
 - Document usage — iteration 29 (2021)
 - Tweak implementation — iteration 35 (2021)
 - Add tests — iteration 36 (2021)
+- Refactor module — iteration 38 (2021)
