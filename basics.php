@@ -69,3 +69,4 @@ var_dump($doubled, $evens, $total);
 - Polish code — iteration 46 (2020)
 - Fix edge case — iteration 59 (2020)
 - Add feature — iteration 60 (2020)
+- Improve error handling — iteration 1 (2021)
