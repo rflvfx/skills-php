@@ -78,3 +78,4 @@
 - Update dependencies — iteration 21 (2021)
 - Extend coverage — iteration 22 (2021)
 - Minor cleanup — iteration 23 (2021)
+- Add feature — iteration 26 (2021)
