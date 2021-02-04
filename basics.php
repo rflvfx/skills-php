@@ -73,3 +73,4 @@ var_dump($doubled, $evens, $total);
 - Add example — iteration 2 (2021)
 - Fix lint warnings — iteration 4 (2021)
 - Fix typo — iteration 8 (2021)
+- Update docs — iteration 11 (2021)
