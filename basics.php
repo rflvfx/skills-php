@@ -76,3 +76,4 @@ var_dump($doubled, $evens, $total);
 - Update docs — iteration 11 (2021)
 - Improve error handling — iteration 13 (2021)
 - Improve error handling — iteration 16 (2021)
+- Document usage — iteration 29 (2021)
