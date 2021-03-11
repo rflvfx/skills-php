@@ -100,3 +100,4 @@ final class User
 - Extend coverage — iteration 7 (2021)
 - Add validation — iteration 10 (2021)
 - Add helper — iteration 14 (2021)
+- Polish code — iteration 15 (2021)
