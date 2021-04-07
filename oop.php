@@ -81,3 +81,4 @@
 - Add feature — iteration 26 (2021)
 - Tweak implementation — iteration 30 (2021)
 - Polish code — iteration 32 (2021)
+- Update docs — iteration 33 (2021)
