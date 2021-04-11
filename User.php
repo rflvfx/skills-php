@@ -98,3 +98,4 @@ final class User
 - Add tests — iteration 58 (2020)
 - Update dependencies — iteration 3 (2021)
 - Extend coverage — iteration 7 (2021)
+- Add validation — iteration 10 (2021)
