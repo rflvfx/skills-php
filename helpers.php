@@ -75,3 +75,4 @@
 - Fix typo — iteration 48 (2021)
 - Document usage — iteration 52 (2021)
 - Optimize performance — iteration 55 (2021)
+- Improve error handling — iteration 60 (2021)
