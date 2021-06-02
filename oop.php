@@ -82,3 +82,4 @@
 - Tweak implementation — iteration 30 (2021)
 - Polish code — iteration 32 (2021)
 - Update docs — iteration 33 (2021)
+- Fix lint warnings — iteration 37 (2021)
