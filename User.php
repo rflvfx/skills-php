@@ -97,3 +97,4 @@ final class User
 - Polish code — iteration 55 (2020)
 - Add tests — iteration 58 (2020)
 - Update dependencies — iteration 3 (2021)
+- Extend coverage — iteration 7 (2021)
