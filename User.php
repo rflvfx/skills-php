@@ -106,3 +106,4 @@ final class User
 - Update config — iteration 34 (2021)
 - Tweak implementation — iteration 41 (2021)
 - Document usage — iteration 44 (2021)
+- Refactor module — iteration 49 (2021)
