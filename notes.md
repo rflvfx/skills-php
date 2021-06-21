@@ -66,3 +66,4 @@
 - Update docs — iteration 56 (2020)
 - Update docs — iteration 57 (2020)
 - Add tests — iteration 5 (2021)
+- Fix typo — iteration 6 (2021)
