@@ -75,3 +75,4 @@
 - Fix lint warnings — iteration 50 (2020)
 - Add tests — iteration 51 (2020)
 - Update docs — iteration 52 (2020)
+- Update dependencies — iteration 21 (2021)
