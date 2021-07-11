@@ -72,3 +72,4 @@
 - Tweak implementation — iteration 20 (2021)
 - Document usage — iteration 24 (2021)
 - Minor cleanup — iteration 31 (2021)
+- Document usage — iteration 51 (2021)
