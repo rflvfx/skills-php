@@ -107,3 +107,4 @@ final class User
 - Tweak implementation — iteration 41 (2021)
 - Document usage — iteration 44 (2021)
 - Refactor module — iteration 49 (2021)
+- Improve naming — iteration 53 (2021)
