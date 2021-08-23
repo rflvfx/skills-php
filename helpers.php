@@ -68,3 +68,4 @@
 - Document usage — iteration 21 (2020)
 - Fix lint warnings — iteration 54 (2020)
 - Extend coverage — iteration 17 (2021)
+- Optimize performance — iteration 18 (2021)
