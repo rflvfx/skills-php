@@ -70,3 +70,4 @@
 - Add example — iteration 9 (2021)
 - Tweak implementation — iteration 12 (2021)
 - Tweak implementation — iteration 20 (2021)
+- Document usage — iteration 24 (2021)
