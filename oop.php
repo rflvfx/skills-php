@@ -85,3 +85,4 @@
 - Fix lint warnings — iteration 37 (2021)
 - Extend coverage — iteration 42 (2021)
 - Update dependencies — iteration 56 (2021)
+- Refactor module — iteration 57 (2021)
