@@ -70,3 +70,4 @@ var_dump($doubled, $evens, $total);
 - Fix edge case — iteration 59 (2020)
 - Add feature — iteration 60 (2020)
 - Improve error handling — iteration 1 (2021)
+- Add example — iteration 2 (2021)
