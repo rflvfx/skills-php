@@ -104,3 +104,4 @@ final class User
 - Polish code — iteration 19 (2021)
 - Extend coverage — iteration 28 (2021)
 - Update config — iteration 34 (2021)
+- Tweak implementation — iteration 41 (2021)
