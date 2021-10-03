@@ -76,3 +76,4 @@
 - Add tests — iteration 51 (2020)
 - Update docs — iteration 52 (2020)
 - Update dependencies — iteration 21 (2021)
+- Extend coverage — iteration 22 (2021)
