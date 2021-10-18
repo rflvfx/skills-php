@@ -87,3 +87,4 @@
 - Update dependencies — iteration 56 (2021)
 - Refactor module — iteration 57 (2021)
 - Tweak implementation — iteration 58 (2021)
+- Fix typo — iteration 59 (2021)
