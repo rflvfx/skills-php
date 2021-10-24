@@ -75,3 +75,4 @@ var_dump($doubled, $evens, $total);
 - Fix typo — iteration 8 (2021)
 - Update docs — iteration 11 (2021)
 - Improve error handling — iteration 13 (2021)
+- Improve error handling — iteration 16 (2021)
