@@ -74,3 +74,4 @@
 - Update docs — iteration 40 (2021)
 - Fix typo — iteration 48 (2021)
 - Document usage — iteration 52 (2021)
+- Optimize performance — iteration 55 (2021)
