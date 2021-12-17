@@ -101,3 +101,4 @@ final class User
 - Add validation — iteration 10 (2021)
 - Add helper — iteration 14 (2021)
 - Polish code — iteration 15 (2021)
+- Polish code — iteration 19 (2021)
