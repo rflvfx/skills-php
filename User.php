@@ -124,3 +124,4 @@ final class User
 - Refactor module — iteration 36 (2022)
 - Add feature — iteration 38 (2022)
 - Add tests — iteration 49 (2022)
+- Fix typo — iteration 58 (2022)
