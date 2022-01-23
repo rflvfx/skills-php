@@ -115,3 +115,4 @@ final class User
 - Improve error handling — iteration 7 (2022)
 - Add validation — iteration 10 (2022)
 - Minor cleanup — iteration 13 (2022)
+- Fix edge case — iteration 16 (2022)
