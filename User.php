@@ -114,3 +114,4 @@ final class User
 - Document usage — iteration 6 (2022)
 - Improve error handling — iteration 7 (2022)
 - Add validation — iteration 10 (2022)
+- Minor cleanup — iteration 13 (2022)
