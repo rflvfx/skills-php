@@ -109,3 +109,4 @@ final class User
 - Refactor module — iteration 49 (2021)
 - Improve naming — iteration 53 (2021)
 - Fix edge case — iteration 54 (2021)
+- Document usage — iteration 1 (2022)
