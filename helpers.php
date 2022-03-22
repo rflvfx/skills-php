@@ -81,3 +81,4 @@
 - Tweak implementation — iteration 15 (2022)
 - Add validation — iteration 20 (2022)
 - Add feature — iteration 21 (2022)
+- Fix typo — iteration 26 (2022)
