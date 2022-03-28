@@ -88,3 +88,4 @@ var_dump($doubled, $evens, $total);
 - Add feature — iteration 50 (2021)
 - Document usage — iteration 3 (2022)
 - Update docs — iteration 5 (2022)
+- Refactor module — iteration 11 (2022)
