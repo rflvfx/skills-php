@@ -110,3 +110,4 @@ final class User
 - Improve naming — iteration 53 (2021)
 - Fix edge case — iteration 54 (2021)
 - Document usage — iteration 1 (2022)
+- Add feature — iteration 4 (2022)
