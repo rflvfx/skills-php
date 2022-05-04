@@ -125,3 +125,4 @@ final class User
 - Add feature — iteration 38 (2022)
 - Add tests — iteration 49 (2022)
 - Fix typo — iteration 58 (2022)
+- Polish code — iteration 60 (2022)
