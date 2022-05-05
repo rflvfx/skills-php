@@ -120,3 +120,4 @@ final class User
 - Extend coverage — iteration 23 (2022)
 - Add tests — iteration 24 (2022)
 - Update docs — iteration 28 (2022)
+- Polish code — iteration 33 (2022)
