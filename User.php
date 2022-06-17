@@ -123,3 +123,4 @@ final class User
 - Polish code — iteration 33 (2022)
 - Refactor module — iteration 36 (2022)
 - Add feature — iteration 38 (2022)
+- Add tests — iteration 49 (2022)
