@@ -117,3 +117,4 @@ final class User
 - Minor cleanup — iteration 13 (2022)
 - Fix edge case — iteration 16 (2022)
 - Fix edge case — iteration 18 (2022)
+- Extend coverage — iteration 23 (2022)
