@@ -92,3 +92,4 @@
 - Add helper — iteration 19 (2022)
 - Update config — iteration 22 (2022)
 - Add feature — iteration 25 (2022)
+- Update docs — iteration 27 (2022)
