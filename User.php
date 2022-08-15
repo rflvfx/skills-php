@@ -112,3 +112,4 @@ final class User
 - Document usage — iteration 1 (2022)
 - Add feature — iteration 4 (2022)
 - Document usage — iteration 6 (2022)
+- Improve error handling — iteration 7 (2022)
