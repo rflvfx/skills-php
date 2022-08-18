@@ -90,3 +90,4 @@
 - Fix typo — iteration 59 (2021)
 - Polish code — iteration 9 (2022)
 - Add helper — iteration 19 (2022)
+- Update config — iteration 22 (2022)
