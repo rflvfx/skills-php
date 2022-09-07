@@ -79,3 +79,4 @@
 - Fix typo — iteration 32 (2022)
 - Tweak implementation — iteration 34 (2022)
 - Update config — iteration 40 (2022)
+- Improve error handling — iteration 52 (2022)
