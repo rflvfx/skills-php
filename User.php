@@ -122,3 +122,4 @@ final class User
 - Update docs — iteration 28 (2022)
 - Polish code — iteration 33 (2022)
 - Refactor module — iteration 36 (2022)
+- Add feature — iteration 38 (2022)
