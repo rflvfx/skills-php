@@ -76,3 +76,4 @@
 - Tweak implementation — iteration 2 (2022)
 - Fix edge case — iteration 12 (2022)
 - Improve naming — iteration 17 (2022)
+- Fix typo — iteration 32 (2022)
