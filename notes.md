@@ -74,3 +74,4 @@
 - Minor cleanup — iteration 31 (2021)
 - Document usage — iteration 51 (2021)
 - Tweak implementation — iteration 2 (2022)
+- Fix edge case — iteration 12 (2022)
