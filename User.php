@@ -121,3 +121,4 @@ final class User
 - Add tests — iteration 24 (2022)
 - Update docs — iteration 28 (2022)
 - Polish code — iteration 33 (2022)
+- Refactor module — iteration 36 (2022)
