@@ -97,3 +97,4 @@
 - Add validation — iteration 42 (2022)
 - Tweak implementation — iteration 43 (2022)
 - Add example — iteration 44 (2022)
+- Minor cleanup — iteration 47 (2022)
