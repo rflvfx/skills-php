@@ -118,3 +118,4 @@ final class User
 - Fix edge case — iteration 16 (2022)
 - Fix edge case — iteration 18 (2022)
 - Extend coverage — iteration 23 (2022)
+- Add tests — iteration 24 (2022)
