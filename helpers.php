@@ -77,3 +77,4 @@
 - Optimize performance — iteration 55 (2021)
 - Improve error handling — iteration 60 (2021)
 - Polish code — iteration 8 (2022)
+- Document usage — iteration 14 (2022)
