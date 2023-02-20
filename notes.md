@@ -83,3 +83,4 @@
 - Add feature — iteration 54 (2022)
 - Optimize performance — iteration 4 (2023)
 - Tweak implementation — iteration 7 (2023)
+- Polish code — iteration 17 (2023)
