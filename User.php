@@ -128,3 +128,4 @@ final class User
 - Polish code — iteration 60 (2022)
 - Fix edge case — iteration 2 (2023)
 - Refactor module — iteration 3 (2023)
+- Document usage — iteration 18 (2023)
