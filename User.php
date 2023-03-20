@@ -134,3 +134,4 @@ final class User
 - Refactor module — iteration 31 (2023)
 - Update config — iteration 34 (2023)
 - Add tests — iteration 41 (2023)
+- Add validation — iteration 43 (2023)
