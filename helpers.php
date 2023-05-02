@@ -97,3 +97,4 @@
 - Add feature — iteration 25 (2023)
 - Document usage — iteration 28 (2023)
 - Update dependencies — iteration 33 (2023)
+- Update config — iteration 38 (2023)
