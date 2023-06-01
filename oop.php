@@ -112,3 +112,4 @@
 - Update docs — iteration 37 (2023)
 - Add validation — iteration 40 (2023)
 - Fix typo — iteration 42 (2023)
+- Document usage — iteration 49 (2023)
