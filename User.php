@@ -130,3 +130,4 @@ final class User
 - Refactor module — iteration 3 (2023)
 - Document usage — iteration 18 (2023)
 - Update config — iteration 20 (2023)
+- Improve naming — iteration 22 (2023)
