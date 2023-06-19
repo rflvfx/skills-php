@@ -137,3 +137,4 @@ final class User
 - Add validation — iteration 43 (2023)
 - Tweak implementation — iteration 45 (2023)
 - Extend coverage — iteration 47 (2023)
+- Fix edge case — iteration 51 (2023)
