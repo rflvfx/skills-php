@@ -96,3 +96,4 @@ var_dump($doubled, $evens, $total);
 - Fix typo — iteration 56 (2022)
 - Add example — iteration 5 (2023)
 - Update docs — iteration 6 (2023)
+- Add validation — iteration 9 (2023)
