@@ -95,3 +95,4 @@
 - Minor cleanup — iteration 16 (2023)
 - Add validation — iteration 24 (2023)
 - Add feature — iteration 25 (2023)
+- Document usage — iteration 28 (2023)
