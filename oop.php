@@ -106,3 +106,4 @@
 - Update dependencies — iteration 1 (2023)
 - Update dependencies — iteration 10 (2023)
 - Fix edge case — iteration 11 (2023)
+- Extend coverage — iteration 21 (2023)
