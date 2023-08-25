@@ -139,3 +139,4 @@ final class User
 - Extend coverage — iteration 47 (2023)
 - Fix edge case — iteration 51 (2023)
 - Optimize performance — iteration 57 (2023)
+- Improve error handling — iteration 58 (2023)
