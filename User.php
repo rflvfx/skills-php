@@ -138,3 +138,4 @@ final class User
 - Tweak implementation — iteration 45 (2023)
 - Extend coverage — iteration 47 (2023)
 - Fix edge case — iteration 51 (2023)
+- Optimize performance — iteration 57 (2023)
