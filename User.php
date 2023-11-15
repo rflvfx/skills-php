@@ -133,3 +133,4 @@ final class User
 - Improve naming — iteration 22 (2023)
 - Refactor module — iteration 31 (2023)
 - Update config — iteration 34 (2023)
+- Add tests — iteration 41 (2023)
