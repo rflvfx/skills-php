@@ -88,3 +88,4 @@
 - Update dependencies — iteration 46 (2022)
 - Update dependencies — iteration 48 (2022)
 - Document usage — iteration 51 (2022)
+- Refactor module — iteration 8 (2023)
