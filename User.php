@@ -136,3 +136,4 @@ final class User
 - Add tests — iteration 41 (2023)
 - Add validation — iteration 43 (2023)
 - Tweak implementation — iteration 45 (2023)
+- Extend coverage — iteration 47 (2023)
