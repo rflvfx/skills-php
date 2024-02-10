@@ -115,3 +115,4 @@
 - Document usage — iteration 49 (2023)
 - Extend coverage — iteration 1 (2024)
 - Update docs — iteration 7 (2024)
+- Minor cleanup — iteration 10 (2024)
