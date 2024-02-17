@@ -112,3 +112,4 @@ var_dump($doubled, $evens, $total);
 - Optimize performance — iteration 11 (2024)
 - Minor cleanup — iteration 14 (2024)
 - Tweak implementation — iteration 29 (2024)
+- Add example — iteration 36 (2024)
