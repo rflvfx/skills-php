@@ -144,3 +144,4 @@ final class User
 - Update docs — iteration 13 (2024)
 - Improve error handling — iteration 17 (2024)
 - Document usage — iteration 28 (2024)
+- Improve error handling — iteration 38 (2024)
