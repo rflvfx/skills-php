@@ -142,3 +142,4 @@ final class User
 - Improve error handling — iteration 58 (2023)
 - Fix typo — iteration 4 (2024)
 - Update docs — iteration 13 (2024)
+- Improve error handling — iteration 17 (2024)
