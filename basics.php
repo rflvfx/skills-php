@@ -113,3 +113,4 @@ var_dump($doubled, $evens, $total);
 - Minor cleanup — iteration 14 (2024)
 - Tweak implementation — iteration 29 (2024)
 - Add example — iteration 36 (2024)
+- Add validation — iteration 39 (2024)
