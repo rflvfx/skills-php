@@ -124,3 +124,4 @@
 - Add tests — iteration 27 (2024)
 - Update docs — iteration 33 (2024)
 - Add feature — iteration 34 (2024)
+- Improve error handling — iteration 35 (2024)
