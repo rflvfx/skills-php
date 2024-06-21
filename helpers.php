@@ -107,3 +107,4 @@
 - Add helper — iteration 6 (2024)
 - Add feature — iteration 15 (2024)
 - Document usage — iteration 16 (2024)
+- Improve error handling — iteration 24 (2024)
