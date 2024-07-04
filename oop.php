@@ -118,3 +118,4 @@
 - Minor cleanup — iteration 10 (2024)
 - Update docs — iteration 12 (2024)
 - Improve error handling — iteration 20 (2024)
+- Add tests — iteration 21 (2024)
