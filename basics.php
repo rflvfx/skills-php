@@ -115,3 +115,4 @@ var_dump($doubled, $evens, $total);
 - Add example — iteration 36 (2024)
 - Add validation — iteration 39 (2024)
 - Update config — iteration 42 (2024)
+- Document usage — iteration 45 (2024)
