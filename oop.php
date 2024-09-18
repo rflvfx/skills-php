@@ -113,3 +113,4 @@
 - Add validation — iteration 40 (2023)
 - Fix typo — iteration 42 (2023)
 - Document usage — iteration 49 (2023)
+- Extend coverage — iteration 1 (2024)
