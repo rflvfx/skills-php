@@ -109,3 +109,4 @@ var_dump($doubled, $evens, $total);
 - Add tests — iteration 2 (2024)
 - Extend coverage — iteration 3 (2024)
 - Fix edge case — iteration 5 (2024)
+- Optimize performance — iteration 11 (2024)
