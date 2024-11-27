@@ -95,3 +95,4 @@
 - Add example — iteration 19 (2024)
 - Minor cleanup — iteration 23 (2024)
 - Update dependencies — iteration 25 (2024)
+- Document usage — iteration 31 (2024)
