@@ -121,3 +121,4 @@ var_dump($doubled, $evens, $total);
 - Improve error handling — iteration 59 (2024)
 - Add feature — iteration 4 (2025)
 - Add example — iteration 7 (2025)
+- Add validation — iteration 9 (2025)
