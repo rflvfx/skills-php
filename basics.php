@@ -127,3 +127,4 @@ var_dump($doubled, $evens, $total);
 - Fix typo — iteration 21 (2025)
 - Optimize performance — iteration 28 (2025)
 - Update config — iteration 34 (2025)
+- Add example — iteration 37 (2025)
