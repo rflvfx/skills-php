@@ -156,3 +156,4 @@ final class User
 - Improve error handling — iteration 39 (2025)
 - Add example — iteration 47 (2025)
 - Fix typo — iteration 55 (2025)
+- Extend coverage — iteration 56 (2025)
