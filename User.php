@@ -154,3 +154,4 @@ final class User
 - Minor cleanup — iteration 26 (2025)
 - Update config — iteration 27 (2025)
 - Improve error handling — iteration 39 (2025)
+- Add example — iteration 47 (2025)
