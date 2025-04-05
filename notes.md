@@ -107,3 +107,4 @@
 - Polish code — iteration 14 (2025)
 - Fix typo — iteration 30 (2025)
 - Fix typo — iteration 38 (2025)
+- Document usage — iteration 43 (2025)
