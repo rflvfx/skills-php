@@ -147,3 +147,4 @@ final class User
 - Improve error handling — iteration 38 (2024)
 - Update dependencies — iteration 54 (2024)
 - Optimize performance — iteration 10 (2025)
+- Document usage — iteration 18 (2025)
