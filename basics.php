@@ -131,3 +131,4 @@ var_dump($doubled, $evens, $total);
 - Add tests — iteration 46 (2025)
 - Document usage — iteration 50 (2025)
 - Minor cleanup — iteration 51 (2025)
+- Extend coverage — iteration 53 (2025)
