@@ -132,3 +132,4 @@ var_dump($doubled, $evens, $total);
 - Document usage — iteration 50 (2025)
 - Minor cleanup — iteration 51 (2025)
 - Extend coverage — iteration 53 (2025)
+- Add example — iteration 60 (2025)
