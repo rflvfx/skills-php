@@ -124,3 +124,4 @@ var_dump($doubled, $evens, $total);
 - Add validation — iteration 9 (2025)
 - Add feature — iteration 12 (2025)
 - Fix lint warnings — iteration 20 (2025)
+- Fix typo — iteration 21 (2025)
