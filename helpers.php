@@ -115,3 +115,4 @@
 - Update dependencies — iteration 56 (2024)
 - Improve naming — iteration 57 (2024)
 - Optimize performance — iteration 58 (2024)
+- Add helper — iteration 1 (2025)
