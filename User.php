@@ -150,3 +150,4 @@ final class User
 - Document usage — iteration 18 (2025)
 - Optimize performance — iteration 19 (2025)
 - Improve error handling — iteration 22 (2025)
+- Fix edge case — iteration 25 (2025)
