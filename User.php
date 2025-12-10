@@ -149,3 +149,4 @@ final class User
 - Optimize performance — iteration 10 (2025)
 - Document usage — iteration 18 (2025)
 - Optimize performance — iteration 19 (2025)
+- Improve error handling — iteration 22 (2025)
