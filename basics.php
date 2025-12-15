@@ -130,3 +130,4 @@ var_dump($doubled, $evens, $total);
 - Add example — iteration 37 (2025)
 - Add tests — iteration 46 (2025)
 - Document usage — iteration 50 (2025)
+- Minor cleanup — iteration 51 (2025)
