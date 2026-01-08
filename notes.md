@@ -116,3 +116,4 @@
 - Tweak implementation — iteration 58 (2025)
 - Update config — iteration 18 (2026)
 - Add tests — iteration 22 (2026)
+- Improve error handling — iteration 30 (2026)
