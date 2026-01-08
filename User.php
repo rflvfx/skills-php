@@ -161,3 +161,4 @@ final class User
 - Fix typo — iteration 11 (2026)
 - Add example — iteration 21 (2026)
 - Add feature — iteration 26 (2026)
+- Add example — iteration 28 (2026)
