@@ -128,3 +128,4 @@
 - Tweak implementation — iteration 42 (2025)
 - Update docs — iteration 1 (2026)
 - Add example — iteration 2 (2026)
+- Fix typo — iteration 3 (2026)
