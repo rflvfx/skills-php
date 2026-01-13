@@ -115,3 +115,4 @@
 - Polish code — iteration 54 (2025)
 - Tweak implementation — iteration 58 (2025)
 - Update config — iteration 18 (2026)
+- Add tests — iteration 22 (2026)
