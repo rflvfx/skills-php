@@ -134,3 +134,4 @@ var_dump($doubled, $evens, $total);
 - Extend coverage — iteration 53 (2025)
 - Add example — iteration 60 (2025)
 - Update config — iteration 7 (2026)
+- Update docs — iteration 10 (2026)
