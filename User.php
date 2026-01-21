@@ -160,3 +160,4 @@ final class User
 - Add validation — iteration 59 (2025)
 - Fix typo — iteration 11 (2026)
 - Add example — iteration 21 (2026)
+- Add feature — iteration 26 (2026)
