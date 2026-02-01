@@ -135,3 +135,4 @@ var_dump($doubled, $evens, $total);
 - Add example — iteration 60 (2025)
 - Update config — iteration 7 (2026)
 - Update docs — iteration 10 (2026)
+- Improve naming — iteration 15 (2026)
