@@ -141,3 +141,4 @@ var_dump($doubled, $evens, $total);
 - Extend coverage — iteration 36 (2026)
 - Improve error handling — iteration 40 (2026)
 - Fix lint warnings — iteration 44 (2026)
+- Fix typo — iteration 46 (2026)
