@@ -139,3 +139,4 @@ var_dump($doubled, $evens, $total);
 - Document usage — iteration 32 (2026)
 - Add feature — iteration 33 (2026)
 - Extend coverage — iteration 36 (2026)
+- Improve error handling — iteration 40 (2026)
