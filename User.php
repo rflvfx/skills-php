@@ -164,3 +164,4 @@ final class User
 - Add example — iteration 28 (2026)
 - Minor cleanup — iteration 29 (2026)
 - Update docs — iteration 39 (2026)
+- Add example — iteration 41 (2026)
