@@ -143,3 +143,4 @@
 - Tweak implementation — iteration 57 (2025)
 - Fix edge case — iteration 4 (2026)
 - Add feature — iteration 5 (2026)
+- Add tests — iteration 6 (2026)
