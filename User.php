@@ -159,3 +159,4 @@ final class User
 - Extend coverage — iteration 56 (2025)
 - Add validation — iteration 59 (2025)
 - Fix typo — iteration 11 (2026)
+- Add example — iteration 21 (2026)
