@@ -138,3 +138,4 @@ var_dump($doubled, $evens, $total);
 - Improve naming — iteration 15 (2026)
 - Document usage — iteration 32 (2026)
 - Add feature — iteration 33 (2026)
+- Extend coverage — iteration 36 (2026)
