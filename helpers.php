@@ -126,3 +126,4 @@
 - Update dependencies — iteration 29 (2025)
 - Add feature — iteration 36 (2025)
 - Tweak implementation — iteration 42 (2025)
+- Update docs — iteration 1 (2026)
