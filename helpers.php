@@ -130,3 +130,4 @@
 - Add example — iteration 2 (2026)
 - Fix typo — iteration 3 (2026)
 - Extend coverage — iteration 9 (2026)
+- Improve naming — iteration 12 (2026)
