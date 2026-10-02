@@ -166,3 +166,4 @@ final class User
 - Update docs — iteration 39 (2026)
 - Add example — iteration 41 (2026)
 - Polish code — iteration 45 (2026)
+- Add validation — iteration 49 (2026)
