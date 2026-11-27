@@ -127,3 +127,4 @@
 - Add feature — iteration 36 (2025)
 - Tweak implementation — iteration 42 (2025)
 - Update docs — iteration 1 (2026)
+- Add example — iteration 2 (2026)
